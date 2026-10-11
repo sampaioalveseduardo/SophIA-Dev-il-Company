@@ -12,7 +12,7 @@ BASE_CSV = RAIZ / "documentos" / "base.csv"
 SYSTEM_PROMPT_PATH = RAIZ / "system-prompt-final-v4"
 
 MODELO_EMBED = "nomic-embed-text"
-MODELO_LLM = "qwen2.5:3b"
+MODELO_LLM = "qwen3:8b"
 CORTE = 0.68
 CORTE_BM25 = 10.0
 K1 = 1.5
