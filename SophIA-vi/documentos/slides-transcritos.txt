@@ -1,0 +1,30 @@
+# Slides do Manual de Estagio que sao TABELA EM IMAGEM.
+#
+# O pypdf extrai zero texto util deles: so o numero da pagina, o titulo e o
+# nome dos cursos. Todo o conteudo esta dentro de capturas de tela, que a
+# biblioteca nao le. Este arquivo e a transcricao manual desse conteudo,
+# feita olhando as imagens embutidas no PDF.
+#
+# A referencia de cada bloco e o slide de origem, entao a citacao da SophIA
+# continua apontando para o lugar certo do manual.
+#
+# Formato: SLIDE, TITULO e TEXTO (o texto pode ocupar varias linhas, ate o
+# proximo SLIDE).
+
+SLIDE: 19
+TITULO: SUPERVISORES E NOMENCLATURAS: GUIA PRÁTICO - BIOMEDICINA E FARMÁCIA
+TEXTO: No cadastro de supervisor no Colaborar, o campo Tipo muda conforme o curso.
+Biomedicina: as opções são Preceptor e Supervisor de Campo. Escolhendo Preceptor, é necessário realizar vínculo e realizar convocação. Escolhendo Supervisor de Campo, é necessário apenas realizar o cadastro.
+Farmácia: as opções são Supervisor de Campo e Preceptor. Escolhendo Preceptor, é necessário realizar vínculo e realizar convocação. Escolhendo Supervisor de Campo, é necessário apenas realizar o cadastro.
+
+SLIDE: 20
+TITULO: SUPERVISORES E NOMENCLATURAS: GUIA PRÁTICO - ENFERMAGEM E FISIOTERAPIA
+TEXTO: No cadastro de supervisor no Colaborar, o campo Tipo muda conforme o curso.
+Enfermagem: as opções são Preceptor e Enfermeiro do Serviço. Escolhendo Preceptor, é necessário realizar vínculo e realizar convocação. Escolhendo Enfermeiro do Serviço, é necessário apenas realizar o cadastro.
+Fisioterapia: as opções são Supervisor de Campo e Preceptor. Escolhendo Preceptor, é necessário realizar vínculo e realizar convocação. Escolhendo Supervisor de Campo, é necessário apenas realizar o cadastro.
+
+SLIDE: 21
+TITULO: SUPERVISORES E NOMENCLATURAS: GUIA PRÁTICO - NUTRIÇÃO E SERVIÇO SOCIAL
+TEXTO: No cadastro de supervisor no Colaborar, o campo Tipo muda conforme o curso.
+Nutrição: as opções são Supervisor de Estágio e Nutricionista. Escolhendo Supervisor de Estágio, é necessário realizar vínculo e realizar convocação. Escolhendo Nutricionista, é necessário apenas realizar o cadastro.
+Serviço Social: as opções são Supervisor de Campo e Supervisor Acadêmico. Escolhendo Supervisor de Campo, é necessário realizar cadastro e realizar vínculo.
