@@ -1,0 +1,337 @@
+# PERGUNTAS E RESPOSTAS - SophIA / estágio UNOPAR Salgueiro
+#
+# Cada bloco tem 4 campos. O campo TRECHO existe para conferência: é texto
+# copiado literalmente do documento de origem, para qualquer pessoa checar a
+# RESPOSTA contra o material em poucos segundos.
+#
+# As respostas foram escritas do ponto de vista do ALUNO. O Manual de Estágio
+# é escrito para o Polo, e repassar o texto dele cru faz a SophIA falar de
+# chamado no ServiceNow e de GO responsável, que não é assunto do aluno.
+#
+# CONFERIR ANTES DE USAR. Escreva OK no fim do bloco que você validou.
+
+PERGUNTA: me acidentei no estágio, o seguro cobre?
+TAMBEM: sofri um acidente estagiando, estou coberto?
+TAMBEM: me machuquei na empresa, o seguro paga?
+RESPOSTA: A apólice contratada pela instituição cobre morte acidental e invalidez permanente, parcial ou total, por acidente. Outras situações não estão contempladas. Quem analisa o seu caso e os documentos do seguro é a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 5
+TRECHO: a apólice vigente contempla duas coberturas: MA - Morte acidental e IPA - Invalidez Permanente Parcial ou Total por Acidente. Demais situações não estão contempladas.
+
+PERGUNTA: qual é a seguradora do estágio? qual o número da apólice?
+TAMBEM: qual empresa fez o seguro do meu estágio?
+TAMBEM: onde eu acho o número da apólice do seguro?
+RESPOSTA: Não encontrei essa informação no material. A contratação do seguro deve estar prevista no termo de compromisso, e quem confere esse documento é a coordenação de estágio.
+ORIGEM: Informações do Polo, seção Seguro Legal
+TRECHO: A apólice deve ser compatível com valores de mercado e a contratação deve estar prevista no termo de compromisso
+
+PERGUNTA: quem é obrigado a contratar o seguro do estágio, eu ou a empresa?
+TAMBEM: eu tenho que pagar o seguro do estágio?
+TAMBEM: de quem é a responsabilidade do seguro
+RESPOSTA: A empresa onde você estagia é quem deve contratar o seguro contra acidentes pessoais. No estágio obrigatório, a instituição de ensino pode assumir essa contratação no lugar da empresa.
+ORIGEM: Informações do Polo, seção Seguro Legal
+TRECHO: A parte concedente deve contratar o seguro contra acidentes pessoais; No estágio obrigatório, a responsabilidade pela contratação do seguro pode, alternativamente, ser assumida pela instituição de ensino
+
+PERGUNTA: faço enfermagem, a empresa precisa ter convênio?
+TAMBEM: meu curso é da saúde, precisa de convênio?
+TAMBEM: sou aluno de enfermagem, a empresa tem que ser conveniada?
+RESPOSTA: Sim. O convênio é obrigatório para os cursos da Área da Saúde, e Enfermagem está nessa lista, junto com Biomedicina, Farmácia, Fisioterapia, Nutrição e Radiologia. Sem o convênio, os alunos da Saúde não podem iniciar o estágio.
+ORIGEM: Manual de Estágio, slide 6
+TRECHO: Convênio: obrigatório somente para os cursos da Área da Saúde (Biomedicina, Enfermagem, Farmácia, Fisioterapia, Nutrição e Radiologia). (...) Sem o convênio, os alunos da Saúde não podem iniciar o estágio!
+
+PERGUNTA: como eu sei se a empresa onde vou estagiar tem convênio?
+TAMBEM: onde vejo a lista de empresas conveniadas?
+TAMBEM: como descubro se o local tem convênio com a faculdade
+RESPOSTA: A lista oficial de empresas conveniadas está no portal Prisma. Atenção a um detalhe importante: a empresa estar cadastrada no sistema Colaborar não garante que ela tenha convênio, são duas coisas diferentes. Em caso de dúvida, confirme com a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 7
+TRECHO: ATENÇÃO: Ter um cadastro válido no sistema Colaborar não garante que a empresa tenha convênio. A lista oficial de empresas conveniadas está no portal Prisma.
+
+PERGUNTA: meu curso não é da área da saúde, preciso de convênio também?
+TAMBEM: faço engenharia, precisa de convênio?
+TAMBEM: convênio vale para todo curso?
+RESPOSTA: Não. Para cursos fora da área da Saúde, como Licenciaturas e Engenharias, o que vale é o cadastro da empresa no sistema, e não o convênio. O convênio é exigido somente para os cursos da Saúde.
+ORIGEM: Manual de Estágio, slide 7
+TRECHO: Cadastro de Empresa: usado para cursos fora da área da Saúde (ex: Licenciaturas, Engenharias)
+
+PERGUNTA: quantas horas de estágio eu posso fazer por dia e por semana?
+TAMBEM: qual o limite de carga horária do estágio?
+TAMBEM: quantas horas por dia eu posso estagiar
+RESPOSTA: A jornada de estágio não deve ultrapassar 6 horas diárias e 30 horas semanais.
+ORIGEM: Manual de Estágio, slide 33
+TRECHO: Conforme estabelecido pela Lei de Estágio nº 11.788/08, o aluno não pode cumprir mais do que 6 (seis) horas diárias e 30 (trinta) horas semanais em Estágio Curricular Obrigatório ou Não Obrigatório.
+
+PERGUNTA: na época de prova eu continuo cumprindo a mesma carga horária?
+TAMBEM: tenho prova essa semana, posso reduzir o estágio?
+TAMBEM: em período de avaliação a carga horária muda?
+RESPOSTA: Em períodos de avaliações periódicas ou finais, a carga horária do estágio deve ser reduzida pelo menos à metade, conforme estiver estipulado no seu termo de compromisso.
+ORIGEM: Informações do Polo, seção Carga Horária Legal
+TRECHO: Em períodos de avaliações periódicas ou finais, a carga horária do estágio deve ser reduzida pelo menos à metade, conforme estipulado no termo de compromisso
+
+PERGUNTA: quanto tempo eu posso ficar estagiando na mesma empresa?
+TAMBEM: existe prazo máximo de estágio na mesma empresa?
+TAMBEM: até quando posso continuar nessa empresa
+RESPOSTA: A duração do estágio na mesma empresa não pode passar de 2 anos. A exceção é para estagiário com deficiência, que não tem esse limite.
+ORIGEM: Informações do Polo, seção Carga Horária Legal
+TRECHO: A duração do estágio na mesma parte concedente não pode exceder 2 anos, exceto para estagiário com deficiência.
+
+PERGUNTA: tenho um estágio não obrigatório, posso fazer o obrigatório ao mesmo tempo?
+TAMBEM: já estagio em outro lugar, posso fazer o obrigatório também?
+TAMBEM: dá para acumular dois estágios?
+TAMBEM: trabalho e tenho estágio remunerado, posso fazer o obrigatório?
+RESPOSTA: A soma dos dois estágios não pode passar de 6 horas diárias e 30 horas semanais. Dentro desse limite você pode fazer os dois. Se a soma passar, há dois caminhos: pedir rescisão ou ajuste de carga horária do estágio não obrigatório, ou apresentar uma declaração de dispensa fornecida pela empresa. Quem analisa o seu caso é a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 33
+TRECHO: na presença de concomitância entre Estágio Curricular Obrigatório e Não Obrigatório, a carga horária total não pode ultrapassar os limites definidos pela legislação. Nesse cenário, o aluno deverá: Solicitar rescisão ou ajuste de carga horária do Estágio Não Obrigatório. (...) Declaração de Dispensa.
+
+PERGUNTA: o que é a declaração de dispensa?
+TAMBEM: para que serve a declaração de dispensa?
+TAMBEM: nunca ouvi falar dessa declaração de dispensa, o que é
+RESPOSTA: É uma declaração que a empresa fornece informando que você está dispensado de cumprir o estágio não obrigatório durante a vigência do estágio obrigatório. Existe um modelo disponível no sistema Colaborar do polo.
+ORIGEM: Manual de Estágio, slide 33
+TRECHO: Declaração de Dispensa: Ter disponibilizado pela empresa, uma declaração de dispensa informando que o estagiário está dispensado de cumprir o Estágio Curricular Não Obrigatório durante a vigência (dia/hora) do Estágio Curricular Obrigatório.
+
+PERGUNTA: em que formato eu envio a declaração de dispensa?
+TAMBEM: posso mandar a declaração de dispensa em foto?
+TAMBEM: qual formato de arquivo da declaração de dispensa
+RESPOSTA: A declaração de dispensa pode ser enviada em PDF, JPG, JPEG ou PNG. Ela precisa conter todas as informações, estar assinada e legível, sem rasuras.
+ORIGEM: Manual de Estágio, slide 34
+TRECHO: Os arquivos somente poderão ser enviados no formato PDF, JPG, JPEG e PNG; Devem conter todas a informações, devidamente assinado e legível (sem rasuras).
+
+PERGUNTA: já assinei o termo de compromisso, posso enviar em JPEG? posso mandar foto?
+TAMBEM: posso tirar foto do termo e mandar?
+TAMBEM: o termo tem que ser PDF mesmo?
+RESPOSTA: Não. O termo de compromisso precisa ser enviado como um único arquivo em PDF, com as 3 folhas juntas. O sistema não aceita outro tipo de arquivo nesse campo.
+ORIGEM: Manual de Estágio, slide 48
+TRECHO: É imprescindível o envio das 3 folhas do termo num único arquivo em formato PDF; (...) Não será possível enviar outro tipo de arquivo diferente da documentação esperada.
+
+PERGUNTA: qual o tamanho máximo do arquivo que eu posso enviar?
+TAMBEM: não consigo mandar o documento, ele está muito grande
+TAMBEM: meu arquivo não sobe, dá erro de tamanho
+TAMBEM: qual o limite de MB do upload
+RESPOSTA: O sistema não aceita arquivo maior que 10MB.
+ORIGEM: Manual de Estágio, slide 48
+TRECHO: é importante o aluno se atentar ao tamanho do arquivo, uma vez que não será possível o upload de arquivo maior do que o permitido pelo sistema (10MB).
+
+PERGUNTA: onde eu envio o termo de compromisso e o cadastro da empresa?
+TAMBEM: por onde eu mando os documentos do estágio?
+TAMBEM: em que lugar do AVA eu subo o termo
+RESPOSTA: O envio é feito por você mesmo, pelo AVA. Entre na disciplina de Estágio, acesse o campo Documento de Estágio e você vai encontrar dois campos de envio: um para o Cadastro da Empresa e outro para o Termo de Compromisso.
+ORIGEM: Manual de Estágio, slide 47
+TRECHO: No AVA, o aluno deve localizar a disciplina de Estágio; Acessar o campo Documento de Estágio na disciplina correspondente; Nesse campo, irá apresentar dois campos para envio, um para o Cadastro da Empresa e outro para o Termo de Compromisso
+
+PERGUNTA: meu documento está com status Em Análise, o que isso quer dizer?
+TAMBEM: já mandei o termo e não aparece resposta nenhuma
+TAMBEM: o que significa Em Análise?
+TAMBEM: mandei o documento e não respondeu nada, é normal?
+RESPOSTA: Quer dizer que o documento foi enviado e ainda não foi analisado. Enquanto a análise não acontece, o status continua como Em Análise. Você acompanha isso na mesma tela do envio, no AVA.
+ORIGEM: Manual de Estágio, slide 49
+TRECHO: Até que a documentação não seja analisada, o documento jurídico enviado irá apresentar o status Em Análise.
+
+PERGUNTA: meu termo de compromisso apareceu como recusado, o que eu faço?
+TAMBEM: recusaram o meu termo, e agora?
+TAMBEM: meu documento foi reprovado no envio
+RESPOSTA: Quando o documento é recusado, o motivo fica visível para você, à frente do campo Recusado. Veja qual foi o motivo e procure a coordenação de estágio para corrigir e reenviar.
+ORIGEM: Manual de Estágio, slide 50
+TRECHO: Caso recusado pelo time de Estágios, o motivo ficará visível ao aluno (a), a frente do campo Recusado.
+
+PERGUNTA: quando o documento fica como Aceito, já posso começar?
+TAMBEM: o status ficou Aceito, posso ir para a empresa?
+TAMBEM: fui aprovado no envio, já começo o estágio?
+RESPOSTA: Quando o status fica Aceito, a validação dos documentos jurídicos está finalizada e você pode dar início ao estágio.
+ORIGEM: Manual de Estágio, slide 50
+TRECHO: Se a documentação estiver correta, o status do documento ficará como Aceito, dessa forma, processo de validação dos documentos jurídico estará finalizado e o aluno poderá dar início ao seu estágio.
+
+PERGUNTA: quanto tempo demora para liberar o termo de compromisso?
+TAMBEM: quantos dias para sair o termo?
+TAMBEM: estou esperando o termo, demora quanto?
+RESPOSTA: Até 7 dias úteis. Esse prazo conta depois que você termina a edição do cadastro no AVA.
+ORIGEM: Manual de Estágio, slide 41
+TRECHO: Ao finalizar a edição do cadastro, o aluno deve aguardar a análise e a liberação do Termo de Compromisso e do Cadastro da Empresa, pelo Time de Estágios em até 7 dias uteis.
+
+PERGUNTA: posso começar a estagiar antes do termo ficar pronto?
+TAMBEM: a empresa quer que eu comece já, posso?
+TAMBEM: dá para adiantar e começar sem o termo?
+RESPOSTA: Não. O estágio só pode começar depois que a documentação jurídica, o termo de compromisso e o cadastro da empresa, estiver validada no sistema.
+ORIGEM: Manual de Estágio, slide 46
+TRECHO: Os alunos (as) somente poderão iniciar o estágio após a validação da documentação jurídica (Termo de Compromisso e Cadastro da Empresa) em sistema
+
+PERGUNTA: quem precisa assinar o termo de compromisso?
+TAMBEM: quem tem que assinar o termo?
+TAMBEM: quantas assinaturas o termo precisa
+RESPOSTA: O termo é assinado por você, pela empresa onde o estágio acontece e pela instituição de ensino, pelo responsável legal dela.
+ORIGEM: Manual de Estágio, slide 54
+TRECHO: O termo de compromisso deve ser assinado pelo aluno, pela empresa concedente e pela Instituição de Ensino (responsável legal).
+
+PERGUNTA: por quanto tempo eu preciso guardar o termo de compromisso?
+TAMBEM: posso jogar o termo fora depois?
+TAMBEM: quanto tempo tenho que guardar os documentos do estágio
+RESPOSTA: A recomendação é guardar o termo de compromisso e o cadastro da empresa por no mínimo 5 anos depois do fim do estágio. Isso serve como comprovação futura, para fins acadêmicos, profissionais ou legais.
+ORIGEM: Manual de Estágio, slide 44
+TRECHO: Recomendar ao aluno que mantenha o Termo de Compromisso e o Cadastro da Empresa guardados por um período mínimo de 5 anos após o término do estágio.
+
+PERGUNTA: perdi o prazo de preenchimento do cadastro do estágio, tem problema?
+TAMBEM: não preenchi o cadastro no prazo, o que acontece?
+TAMBEM: passou o prazo do cadastro, perdi a disciplina?
+RESPOSTA: Sim, tem. Não preencher as informações no sistema dentro do prazo leva à reprovação na disciplina de Estágio Curricular Obrigatório. Procure a coordenação de estágio para ver se ainda dá para regularizar o seu caso.
+ORIGEM: Manual de Estágio, slide 44
+TRECHO: O não preenchimento das informações em sistema dentro do prazo, acarretará a reprovação da disciplina de Estágio Curricular Obrigatório do aluno(a).
+
+PERGUNTA: em quanto tempo eu tenho que entregar o termo depois de assinado?
+TAMBEM: assinei o termo, tenho quantos dias para entregar?
+TAMBEM: prazo para devolver o termo assinado
+RESPOSTA: O termo de compromisso assinado deve ser entregue em até 10 dias corridos depois da assinatura.
+ORIGEM: Informações do Polo, seção Prazos Institucionais
+TRECHO: TCE assinado: entregar em até 10 dias corridos após a assinatura
+
+PERGUNTA: vou trocar de empresa, em quanto tempo preciso avisar?
+TAMBEM: vou sair da empresa, quando aviso?
+TAMBEM: prazo para comunicar a troca de empresa
+RESPOSTA: A rescisão ou a troca de empresa deve ser comunicada em até 5 dias úteis.
+ORIGEM: Informações do Polo, seção Prazos Institucionais
+TRECHO: Rescisão ou troca de empresa: comunicar em até 5 dias úteis
+
+PERGUNTA: quais são os prazos de análise dos cadastros?
+TAMBEM: quanto tempo cada etapa demora?
+TAMBEM: prazos de análise do time de estágio
+RESPOSTA: Os prazos em dias úteis são: cadastro de empresa, 4 dias; alteração do responsável da empresa, 5 dias; cadastro de supervisor, 4 dias; vínculo do supervisor com a empresa, 4 dias; análise da declaração de dispensa, 5 dias; liberação do termo de compromisso e do cadastro da empresa, 7 dias; validação do termo de compromisso e do cadastro da empresa, 7 dias.
+ORIGEM: Manual de Estágio, slide 4
+TRECHO: Confira os prazos em dias úteis: Cadastro de empresa: 4 dias. Alteração do responsável da empresa: 5 dias. Cadastro de Supervisor de Campo/ Supervisor Acadêmico/Preceptor: 4 dias. Vínculo do Supervisor/Empresa: 4 dias. Análise Declaração de Dispensa: 5 dias. Liberação do Termo de Compromisso e do Cadastro da Empresa: 7 dias. Validação do Termo de Compromisso e do Cadastro da Empresa: 7 dias
+
+PERGUNTA: meu supervisor foi substituído, vou ter que assinar outro termo de compromisso?
+TAMBEM: o cara que me acompanha na empresa saiu, e agora?
+TAMBEM: trocaram meu supervisor, preciso de outro termo?
+TAMBEM: meu supervisor pediu demissão, o que faço?
+RESPOSTA: O termo de compromisso original continua válido. A regularização da troca é feita por um Termo de Compromisso Aditivo, que precisa ser preenchido e assinado por todas as partes. Procure a coordenação de estágio para conduzir isso.
+ORIGEM: Manual de Estágio, slide 28
+TRECHO: Em caso de substituição do supervisor/preceptor que já está acompanhando alunos em campo, o Termo de Compromisso original será mantido válido. A regularização será feita exclusivamente por meio do Documento Aditivo.
+
+PERGUNTA: quem pode ser meu supervisor na empresa? pode ser qualquer pessoa?
+TAMBEM: qualquer funcionário pode me supervisionar?
+TAMBEM: que tipo de profissional pode ser meu supervisor
+RESPOSTA: Não pode ser qualquer pessoa. O supervisor de campo é o profissional designado pela empresa para orientar e acompanhar você durante o estágio, e a formação acadêmica dele é informada no cadastro. Nos cursos de Biomedicina, Enfermagem, Farmácia, Fisioterapia, Nutrição e Serviço Social, ele precisa ter cadastro no sistema e registro profissional ativo no conselho.
+ORIGEM: Manual de Estágio, slide 16
+TRECHO: É o profissional designado pela empresa concedente para orientar e acompanhar o estudante durante a execução do estágio nas instalações da empresa. (...) Nos cursos de Biomedicina, Enfermagem, Farmácia, Fisioterapia, Nutrição e Serviço Social, antes de associar o aluno, primeiramente será necessário cadastrar o supervisor de campo no sistema colaborar.
+
+PERGUNTA: quantos alunos um supervisor pode acompanhar ao mesmo tempo?
+TAMBEM: tem limite de aluno por supervisor?
+TAMBEM: quantos estagiários um supervisor pode ter
+RESPOSTA: Depende do curso, porque cada conselho tem uma regra. Em Biomedicina são até 8 alunos por preceptor; em Farmácia, 10; em Fisioterapia, até 6; em Serviço Social, 1 aluno a cada 10 horas de trabalho do Assistente Social; em Enfermagem, até 8 ou até 10 alunos por supervisor, dependendo do nível de complexidade da assistência.
+ORIGEM: Manual de Estágio, slide 31
+TRECHO: Biomedicina - Resolução nº 277, de 29 de Agosto de 2017 (Conselho Federal de Biomedicina), métrica de até 8 alunos por preceptor. Farmácia - CNE/CES nº 6 de 19/10/2017 determina a métrica de 10 alunos por preceptor. Fisioterapia - COFFITO nº 431, de 27 de setembro de 2013, métrica de até 6 alunos por preceptor. Serviço Social - Resolução 533/08 o Assistente Social pode supervisionar 1 aluno a cada 10 horas de trabalho.
+
+PERGUNTA: o diretor da minha empresa foi substituído, eu preciso refazer todo o cadastro?
+TAMBEM: trocou o responsável da empresa, refaço tudo?
+TAMBEM: mudou o diretor, tenho que cadastrar a empresa de novo?
+RESPOSTA: Não precisa refazer o cadastro da empresa. O caso é de Alteração de Responsável, que é feita direto no sistema. Depois que o nome do novo responsável estiver corrigido, você reimprime o termo de compromisso e o cadastro da empresa atualizados no AVA.
+ORIGEM: Manual de Estágio, slide 12
+TRECHO: Para corrigir essa informação, não é necessário realizar um novo cadastro da empresa. (obs: nesta frase o PDF embaralhou a palavra Alteração ao extrair)
+
+PERGUNTA: quais cargos podem ser o responsável pela empresa no cadastro?
+TAMBEM: quem pode figurar como responsável da empresa?
+TAMBEM: que cargo serve para responsável no cadastro
+RESPOSTA: São aceitos cargos como diretores, coordenadores, proprietários, vice-presidentes, gerentes, sócios, presidentes, prefeitos e secretários de departamento, entre outros, porque são cargos com capacidade de tomar decisões e representar a empresa.
+ORIGEM: Manual de Estágio, slide 13
+TRECHO: Os seguintes cargos são aceitos como responsáveis pela empresa: Diretores, Coordenadores, Proprietários, Vice-Presidentes, Gerentes, Sócios, Presidentes, Prefeitos e Secretários de Departamento, entre outros.
+
+PERGUNTA: coloquei a empresa errada no termo, já assinei tudo, o que faço?
+TAMBEM: errei a empresa no termo, como corrijo?
+TAMBEM: assinei o termo com a empresa errada
+RESPOSTA: Quando há troca da empresa em que o aluno está associado, é necessário cancelar o cadastro, e aí o termo de compromisso anterior perde a validade. Procure a coordenação de estágio, que é quem conduz esse processo e orienta como proceder.
+ORIGEM: Manual de Estágio, slide 43
+TRECHO: Após o cancelamento do cadastro, o Termo de Compromisso anterior perde automaticamente a validade. Essa ação e suas consequências são de total responsabilidade do Polo de Apoio ou Unidade, oriente o aluno a descartar o termo de compromisso e o cadastro da empresa que haviam sido gerados.
+
+PERGUNTA: de quanto em quanto tempo eu tenho que entregar relatório?
+TAMBEM: com que frequência entrego relatório?
+TAMBEM: quando vence o relatório de atividades
+RESPOSTA: O relatório de atividades deve ser entregue a cada 6 meses de estágio. A instituição não pode exigir em prazo maior que 6 meses, e a empresa também envia um relatório nesse mesmo intervalo, com vista obrigatória para você.
+ORIGEM: Informações do Polo, seção Relatórios Legais
+TRECHO: A instituição de ensino deve exigir do estudante relatório periódico em prazo não superior a 6 meses; A parte concedente deve enviar à instituição de ensino, com periodicidade mínima de 6 meses, relatório de atividades, com vista obrigatória ao estagiário.
+
+PERGUNTA: o que eu preciso para ser aprovado na disciplina de estágio?
+TAMBEM: o que preciso fazer para passar em estágio?
+TAMBEM: quais os requisitos de aprovação do estágio
+RESPOSTA: Para ser aprovado você precisa estar com o termo de compromisso e a documentação pedagógica válidos no seu AVA, além de nota acima de 6 mil no portfólio. Sem esses requisitos, o aluno é reprovado na emissão do boletim.
+ORIGEM: Manual de Estágio, slide 55
+TRECHO: Para que o aluno seja aprovado na disciplina, ele precisa estar com o termo de compromisso e a documentação pedagógica válidos em seu AVA, além de uma nota acima de 6 mil no portfólio. Sem esses requisitos, o aluno não é aprovado e, no momento da emissão do boletim, ele será reprovado.
+
+PERGUNTA: tenho direito a férias ou recesso no estágio?
+TAMBEM: estagiário tira férias?
+TAMBEM: posso tirar recesso no estágio?
+RESPOSTA: Quando o estágio tem duração igual ou superior a 1 ano, você tem direito a 30 dias de recesso, de preferência durante as férias escolares. Se durar menos de 1 ano, o recesso é proporcional. O recesso é remunerado quando você recebe bolsa ou outra contraprestação. O cálculo do seu caso é com a coordenação de estágio.
+ORIGEM: Informações do Polo, seção Recesso Legal
+TRECHO: Quando o estágio tiver duração igual ou superior a 1 ano, o estagiário tem direito a 30 dias de recesso, preferencialmente durante as férias escolares; O recesso deve ser remunerado quando o estagiário receber bolsa ou outra forma de contraprestação; Se o estágio durar menos de 1 ano, o recesso é proporcional
+
+PERGUNTA: o estágio obrigatório tem que pagar bolsa e auxílio-transporte?
+TAMBEM: o estágio obrigatório é pago?
+TAMBEM: vou receber bolsa no estágio obrigatório?
+TAMBEM: tenho direito a auxílio-transporte no estágio obrigatório?
+RESPOSTA: No estágio obrigatório a empresa não é obrigada a pagar bolsa nem auxílio-transporte, então ele pode ser sem nenhuma remuneração. A obrigação de pagar bolsa e auxílio-transporte existe no estágio não obrigatório.
+ORIGEM: Informações do Polo, seção Bolsa e Auxílio-transporte Legais
+TRECHO: No estágio não obrigatório, é obrigatória a concessão de bolsa ou outra forma de contraprestação acordada e de auxílio-transporte; No estágio obrigatório, a lei não estabelece a mesma obrigatoriedade de bolsa e auxílio-transporte prevista para o estágio não obrigatório.
+
+PERGUNTA: a empresa quer usar o modelo de termo dela, pode?
+TAMBEM: a empresa tem o próprio termo, serve?
+TAMBEM: posso usar o contrato da empresa em vez do da faculdade?
+RESPOSTA: Pode, é o Termo de Compromisso Modelo Empresa. Ele precisa ser enviado para análise antes das assinaturas, em Word ou PDF, e todas as cláusulas precisam atender à Lei de Estágio. Quem conduz esse envio é a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 51
+TRECHO: é essencial que todas as cláusulas atendam à legislação de estágio (Lei de Estágio 11.788) (...) é necessário que o Polo/Unidade envie o documento em formato WORD ou PDF para o time de estágio antes das assinaturas
+
+PERGUNTA: pode usar termo de compromisso coletivo para a turma?
+TAMBEM: dá para fazer um termo só para vários alunos?
+TAMBEM: existe termo coletivo?
+RESPOSTA: Não. Conforme a legislação vigente, não é mais permitido o uso de Termos de Compromisso Coletivo para formalizar estágios.
+ORIGEM: Manual de Estágio, slide 51
+TRECHO: Conforme disposto pela legislação vigente, não será mais permitido o uso de Termos de Compromisso Coletivo para a formalização de estágios.
+
+PERGUNTA: onde eu acompanho a análise do meu cadastro de estágio?
+TAMBEM: como vejo se meu cadastro foi aprovado?
+TAMBEM: onde acompanho o andamento do estágio
+RESPOSTA: Você acompanha direto no seu AVA. Se faltar corrigir alguma informação, aparece uma mensagem em vermelho, e aí você corrige e salva de novo. Quando os documentos são liberados, ficam disponíveis no AVA para impressão e coleta das assinaturas.
+ORIGEM: Manual de Estágio, slide 41
+TRECHO: O aluno deve ser orientado a acompanhar a análise do seu cadastro diretamente no AVA. Caso a liberação imediata não seja possível e haja necessidade de correção de alguma informação, uma mensagem aparecerá em vermelho. Neste caso, o aluno deverá realizar a correção e salvar as informações novamente. Se liberados, esses documentos ficarão disponíveis no AVA para impressão
+
+PERGUNTA: o estágio obrigatório pode ser feito em qualquer época do ano?
+TAMBEM: posso estagiar nas férias?
+TAMBEM: tem período certo para fazer o estágio?
+RESPOSTA: O Estágio Curricular Obrigatório deve ser realizado durante o período letivo regular. A data limite de cada semestre é definida pelo planejamento acadêmico, e quem informa a data do seu semestre é a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 3
+TRECHO: O Estágio Curricular Obrigatório deve ser realizado durante o período letivo regular. A data limite para a realização do Estágio Curricular Obrigatório em campo é definida pelo time de planejamento acadêmico
+
+PERGUNTA: onde eu entrego os documentos do estágio e em que formato?
+TAMBEM: por onde entrego a documentação do estágio?
+TAMBEM: em que formato mando os documentos
+RESPOSTA: A entrega é pelo Portal do Aluno, na aba Estágio, em PDF. O termo de compromisso é assinado em 3 vias, por você, pela empresa e pela instituição, e o plano de atividades é elaborado pela empresa e aprovado pelo professor orientador.
+ORIGEM: Informações do Polo, seção Documentos Institucionais
+TRECHO: Termo de Compromisso de Estágio (TCE): assinado pelo aluno, pela empresa e pela instituição, em 3 vias; Plano de atividades: elaborado pela empresa e aprovado pelo professor orientador; Entrega: pelo Portal do Aluno, aba Estágio, em PDF.
+
+PERGUNTA: como eu falo com a coordenação de estágio?
+TAMBEM: qual o contato da coordenação de estágio?
+TAMBEM: qual o telefone da coordenação de estágio?
+RESPOSTA: O contato da coordenação de estágio é https://www.unopar.com.br/aluno/estagio
+ORIGEM: Informações do Polo, seção Contato
+TRECHO: Coordenação de estágio: https://www.unopar.com.br/aluno/estagio
+
+PERGUNTA: a empresa quer que eu cumpra mais de 6 horas por dia no estágio, eles podem fazer isso?
+TAMBEM: a empresa quer que eu fique até mais tarde, mais horas do que o combinado
+TAMBEM: meu chefe disse que não tem problema eu fazer 8 horas, está certo?
+TAMBEM: estão exigindo mais carga horária do que eu deveria cumprir
+RESPOSTA: Não posso dizer se a empresa está certa ou errada. A jornada de estágio não deve ultrapassar 6 horas diárias e 30 horas semanais. Quem avalia o seu caso é a coordenação de estágio.
+ORIGEM: Manual de Estágio, slide 33
+TRECHO: Conforme estabelecido pela Lei de Estágio nº 11.788/08, o aluno não pode cumprir mais do que 6 (seis) horas diárias e 30 (trinta) horas semanais em Estágio Curricular Obrigatório ou Não Obrigatório.
+
+PERGUNTA: a empresa está me colocando para fazer atividade que não tem no meu plano, isso pode?
+TAMBEM: estão me pedindo tarefa que não tem nada a ver com o estágio
+TAMBEM: acho que estou sendo enganado pela empresa
+RESPOSTA: Não posso dizer se a empresa está certa ou errada. As atividades desenvolvidas devem ser compatíveis com as previstas no termo de compromisso, e o plano de atividades é acordado entre você, a empresa e a instituição. Quem avalia o seu caso é a coordenação de estágio.
+ORIGEM: Informações do Polo, seção Formalização do Estágio Legal
+TRECHO: As atividades desenvolvidas devem ser compatíveis com aquelas previstas no termo de compromisso, assim como o plano de atividades deve ser elaborado em acordo pelas três partes
+
+# ---------------------------------------------------------------------------
+# PENDENTE - PRECISA DE VOCÊS
+#
+# Os slides 19 e 20 são tabelas em imagem. O pypdf não extraiu nenhum texto
+# deles, então esse conteúdo NÃO existe no sistema hoje. Eu não posso escrever
+# essas respostas porque não tenho acesso ao conteúdo.
+#
+# Abram o PDF nos slides 19 e 20 e escrevam os blocos no mesmo formato acima.
+# Pelo contexto dos slides 15 a 21, devem ser as tabelas de supervisores e
+# nomenclaturas por curso.
+# ---------------------------------------------------------------------------

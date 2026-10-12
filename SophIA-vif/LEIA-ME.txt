@@ -1,0 +1,86 @@
+SophIA - tutora virtual do polo UNOPAR Salgueiro
+=================================================
+
+Sao TRES passos. O primeiro e o demorado: baixa 5,5 GB de modelos.
+Comece por ele e deixe baixando.
+
+
+PASSO 1 - Ollama e os modelos   (uma vez, ~5,5 GB)
+---------------------------------------------------
+
+  a) Baixe e instale o Ollama:  https://ollama.com/download
+  b) Abra o Ollama (ele fica na bandeja, ao lado do relogio)
+  c) Abra o Prompt de Comando e rode, um de cada vez:
+
+        ollama pull qwen3:8b
+        ollama pull nomic-embed-text
+
+  O primeiro tem 5,2 GB e o segundo 274 MB. Pode ir tomar um cafe.
+
+
+PASSO 2 - Python   (uma vez, ~30 MB)
+--------------------------------------
+
+  Baixe em  https://python.org/downloads
+  IMPORTANTE: marque "Add Python to PATH" na primeira tela do instalador.
+  Se esquecer disso, nada vai funcionar.
+
+
+PASSO 3 - Rodar
+-----------------
+
+  Abra esta pasta no VS Code (File > Open Folder) e, no terminal
+  (Ctrl + aspas simples), digite:
+
+        .odar
+
+  Ou, sem VS Code: clique duas vezes no arquivo  rodar.bat
+
+  Na primeira vez ele monta o ambiente sozinho, o que leva 1 ou 2 minutos.
+  Depois o navegador abre em  http://127.0.0.1:5000
+
+  Para encerrar: Ctrl+C no terminal, ou feche a janela.
+
+
+SE DER ERRO
+-------------
+
+  "Nao encontrei o Python"
+      Falta o Python, ou voce esqueceu de marcar "Add Python to PATH".
+      Reinstale marcando a opcao.
+
+  "Nao consegui falar com o Ollama"
+      O Ollama nao esta aberto. Abra pelo menu Iniciar e espere o icone
+      aparecer na bandeja.
+
+  "CUDA error: shared object initialization failed"
+      O Ollama foi fechado a forca e travou a placa de video. Feche o
+      Ollama pela bandeja (ao lado do relogio), espere 10 segundos e abra
+      de novo. Nunca feche o Ollama pelo Gerenciador de Tarefas.
+
+  A primeira pergunta demora uns 20 segundos
+      E o modelo carregando na memoria. Da segunda em diante fica rapido.
+
+  Tudo muito lento, cada resposta passando de um minuto
+      O modelo esta rodando na CPU em vez da placa de video. Precisa de
+      uns 6 GB de VRAM para ficar rapido. Funciona assim mesmo, so devagar.
+
+
+O QUE TEM AQUI
+----------------
+
+  rodar.bat               sobe tudo (e monta o ambiente na primeira vez)
+  run.py                  confere o Ollama e inicia o servidor
+  backend/app.py          servidor Flask: serve o site e expoe /api/chat
+  backend/rag_core.py     o RAG: busca, reranking e geracao da resposta
+  static/                 a interface: HTML, CSS e JavaScript
+  system-prompt-final-v4  as regras de comportamento da SophIA
+  documentos/             o material e a base ja indexada
+  preparar.py             corta o material em pedacos    (so se o material mudar)
+  indexar.py              calcula os vetores dos pedacos (so se o material mudar)
+
+  A base ja vem pronta em documentos/base.csv, entao nao precisa
+  reindexar nada para rodar.
+
+  O README.md tem a explicacao tecnica: como a resposta e construida e
+  os numeros que medimos.
