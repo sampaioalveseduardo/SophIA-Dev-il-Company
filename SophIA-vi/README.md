@@ -7,7 +7,7 @@
 ollama pull qwen3:8b ou a combinar com o arquivo outra versão
 ollama pull nomic-embed-text
 
-(Se a máquina do grupo usa outro modelo de geração, troque o valor de `MODELO_LLM` em `backend/rag_core.py`.)
+(outro modelo de geração, troque o valor de `MODELO_LLM` em `backend/rag_core.py`.)
 
 # Como rodar
 
