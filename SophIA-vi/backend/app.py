@@ -1,8 +1,3 @@
-# Servidor web da SophIA: serve o front (HTML/CSS/JS estáticos) e expõe
-# duas rotas de API que falam com o pipeline RAG (rag_core.py) e com o
-# Ollama local. Sem Docker, sem banco de dados, sem download de GGUF —
-# o modelo é puxado direto do Ollama que já está rodando na máquina.
-
 import sys
 from pathlib import Path
 
