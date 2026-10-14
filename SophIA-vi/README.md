@@ -16,8 +16,7 @@ pip install -r requirements.txt
 
 2. Garanta que o Ollama está rodando
 
-3. No VS Code, abra `run.py` e aperte Run (ou F5) — já existe uma configuração em `.vscode/launch.json` para isso. Alternativamente, pelo terminal:
-python run.py
+3. No terminal, rode `python run.py` ou aperte Run em run.py (F5) — já existe uma configuração em `.vscode/launch.json` para isso.
 
 Isso sobe um servidor local e abre automaticamente o navegador em `http://127.0.0.1:5000` com a SophIA pronta para conversar.
 
