@@ -280,11 +280,7 @@ def responder_social(mensagem):
             "resposta, porque não há trecho algum para citar. Continuam "
             "valendo as regras de formato: sem emoji, sem asterisco, só "
             "texto simples.\n"
-            # sem o exemplo, ela respondia "Você está muito bem" a um
-            # agradecimento -- traducao literal de "you're very welcome"
-            "Escreva em português do Brasil natural. Para agradecimento, "
-            'use uma frase curta como "Imagina, fico à disposição" -- uma'
-            ' só, não emende outra em seguida.'
+            "Escreva em português do Brasil natural. Para agradecimento: use uma frase curta de agradecimento quando necessário."
         )},
     ])
     return {
