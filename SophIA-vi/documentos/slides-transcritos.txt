@@ -1,12 +1,7 @@
 # Slides do Manual de Estagio que sao TABELA EM IMAGEM.
 #
 # O pypdf extrai zero texto util deles: so o numero da pagina, o titulo e o
-# nome dos cursos. Todo o conteudo esta dentro de capturas de tela, que a
-# biblioteca nao le. Este arquivo e a transcricao manual desse conteudo,
-# feita olhando as imagens embutidas no PDF.
-#
-# A referencia de cada bloco e o slide de origem, entao a citacao da SophIA
-# continua apontando para o lugar certo do manual.
+# nome dos cursos.
 #
 # Formato: SLIDE, TITULO e TEXTO (o texto pode ocupar varias linhas, ate o
 # proximo SLIDE).
