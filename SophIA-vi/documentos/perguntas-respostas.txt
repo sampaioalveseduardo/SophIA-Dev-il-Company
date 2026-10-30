@@ -3,12 +3,6 @@
 # Cada bloco tem 4 campos. O campo TRECHO existe para conferência: é texto
 # copiado literalmente do documento de origem, para qualquer pessoa checar a
 # RESPOSTA contra o material em poucos segundos.
-#
-# As respostas foram escritas do ponto de vista do ALUNO. O Manual de Estágio
-# é escrito para o Polo, e repassar o texto dele cru faz a SophIA falar de
-# chamado no ServiceNow e de GO responsável, que não é assunto do aluno.
-#
-# CONFERIR ANTES DE USAR. Escreva OK no fim do bloco que você validou.
 
 PERGUNTA: me acidentei no estágio, o seguro cobre?
 TAMBEM: sofri um acidente estagiando, estou coberto?
@@ -323,15 +317,3 @@ TAMBEM: acho que estou sendo enganado pela empresa
 RESPOSTA: Não posso dizer se a empresa está certa ou errada. As atividades desenvolvidas devem ser compatíveis com as previstas no termo de compromisso, e o plano de atividades é acordado entre você, a empresa e a instituição. Quem avalia o seu caso é a coordenação de estágio.
 ORIGEM: Informações do Polo, seção Formalização do Estágio Legal
 TRECHO: As atividades desenvolvidas devem ser compatíveis com aquelas previstas no termo de compromisso, assim como o plano de atividades deve ser elaborado em acordo pelas três partes
-
-# ---------------------------------------------------------------------------
-# PENDENTE - PRECISA DE VOCÊS
-#
-# Os slides 19 e 20 são tabelas em imagem. O pypdf não extraiu nenhum texto
-# deles, então esse conteúdo NÃO existe no sistema hoje. Eu não posso escrever
-# essas respostas porque não tenho acesso ao conteúdo.
-#
-# Abram o PDF nos slides 19 e 20 e escrevam os blocos no mesmo formato acima.
-# Pelo contexto dos slides 15 a 21, devem ser as tabelas de supervisores e
-# nomenclaturas por curso.
-# ---------------------------------------------------------------------------
